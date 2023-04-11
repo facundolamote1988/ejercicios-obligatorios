@@ -35,17 +35,11 @@ if (opcionMenu == 1) {
 
 }
 if (opcionMenu == 2) {
-    /*linea = "-";
-    for(i = 0; i <= 40 ; i++){
-        linea = linea + "-"
-    }*/
+    
     console.log(linea);
     console.log("el resultadode de la resta es: ", num1 - num2);
     console.log(linea);
-    //linea = "-";
-    /*for(i = 0; i <= 40 ; i++){
-       linea = linea + "-";
-   }*/
+ 
 
 
 }
