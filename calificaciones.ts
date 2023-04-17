@@ -36,9 +36,9 @@ for(let salir: number = 1; salir <= 1 ; salir++){
     noteTeoria= rls.questionFloat("nota en teoria: ");
 
     //if(salir == 1){
-        totalPractica = (notePractica * 0.10);
-        totalProblem = (noteProblem * 0.50);
-        totalTeoria = (noteTeoria * 0.40);
+        totalPractica = (notePractica * 0.1);
+        totalProblem = (noteProblem * 0.5);
+        totalTeoria = (noteTeoria * 0.4);
         sumaPractica = (totalPractica + notePractica);
         sumaProblem = (totalProblem + noteProblem);
         sumaTeoria = (totalTeoria + noteTeoria);
